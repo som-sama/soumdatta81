@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and exciting projects 
 - 🌱 I’m currently learning c language 
 - 💞️ I’m looking to collaborate on any exciting projects
-- 📫 How to reach me 
+- 📫 How to reach me in twitter @s_0_u_M
 
 <!---
 soumdatta81/soumdatta81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
