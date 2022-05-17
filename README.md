@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumdatta81
 - 👀 I’m interested in coding and exciting projects 
-- 🌱 I’m currently learning c language 
+- 🌱 I’m currently learning JAVA language and i know C and C++
 - 💞️ I’m looking to collaborate on any exciting projects
 - 📫 How to reach me in twitter @s_0_u_M
 
