@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/soumdatta81/soumdatta81/blob/main/Black%20and%20Yellow%20Modern%20Free%20eCourse%20Twitter%20Cover%20(1).png"/>
 <h1 align="center">Heya! 👋, I'm Soumyadeep Datta</h1>
 <h3 align="center">I play with code.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
