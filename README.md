@@ -3,16 +3,16 @@
 <h3 align="center">I play with code.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumdatta81&label=Profile%20views&color=0e75b6&style=flat" alt="soumdatta81" /> </p>
+ 
+ 
+ 
+ 
 
 <p align="left"> <a href="https://twitter.com/scarr_rrrr" target="blank"><img src="https://img.shields.io/twitter/follow/scarr_rrrr?logo=twitter&style=for-the-badge" alt="scarr_rrrr" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA,DevOps,DSA**
 
-- 💬 Ask me about **Tech,Programming,etc**
+- 💬 Ask me about **Tech,Programming,Animes,etc**
 
 - 📫 How to reach me **soumdatta81@gmail.com**
 
