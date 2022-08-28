@@ -1,4 +1,5 @@
-<img align="center" src="https://github.com/soumdatta81/soumdatta81/blob/63374673a0b4b46b5b1cb3eafc46e583744a233a/github_banner.png"/>
+<img align="center" src="https://github.com/soumdatta81/soumdatta81/blob/e1bf36975691866cfc981d8c63fbb39a5ebda0ab/Let's%20Connect3.png"/>
+
 
 <h1 align="center">Heya! 👋, I'm Soumyadeep Datta</h1>
 <h3 align="center">I play with code.</h3>
