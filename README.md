@@ -12,13 +12,12 @@
 
 <p align="left"> <a href="https://twitter.com/soumstwt" target="blank"><img src="https://img.shields.io/twitter/follow/soumstwt?logo=twitter&style=for-the-badge" alt="soumstwt" /></a> </p>
 
-- I’m currently exploring **JAVA,DevOps,DSA ✨**
+- I’m currently exploring **BackEnd Stuff and DevOps ✨**
 
 - Ask me about **Tech,Programming,Animes,etc 💬**
 
 - How to reach me **soumdatta81@gmail.com 📫**
 
-- Fun fact **my hair can hold 100g 💀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
