@@ -1,7 +1,7 @@
-<img align="center" src="https://github.com/soumdatta81/soumdatta81/blob/e1bf36975691866cfc981d8c63fbb39a5ebda0ab/Let's%20Connect3.png"/>
+<img align="center" src="https://github.com/soumdatta81/soumdatta81/blob/21d26eb4f30dd73dc9ec74302bc11b565ac60a5f/wp10474992.png"/>
 
 
-<h1 align="center">Heya! 👋, I'm Soumyadeep Datta</h1>
+<h1 align="center">Heya! 👋, I'm Som</h1>
 <h3 align="center">I play with code.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/soumstwt" target="blank"><img src="https://img.shields.io/twitter/follow/soumstwt?logo=twitter&style=for-the-badge" alt="soumstwt" /></a> </p>
 
-- I’m currently exploring **BackEnd Stuff and DevOps ✨**
+- I’m currently exploring **Flutter Development and Building Projects ✨**
 
 - Ask me about **Tech,Programming,Animes,etc 💬**
 
