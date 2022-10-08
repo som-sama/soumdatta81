@@ -10,7 +10,7 @@
  
  
 
-<p align="left"> <a href="https://twitter.com/soumstwt" target="blank"><img src="https://img.shields.io/twitter/follow/soumstwt?logo=twitter&style=for-the-badge" alt="soumstwt" /></a> </p>
+<p align="left"> <a href="https://twitter.com/somstwt" target="blank"><img src="https://img.shields.io/twitter/follow/somstwt?logo=twitter&style=for-the-badge" alt="soumstwt" /></a> </p>
 
 - I’m currently exploring **Flutter Development and Building Projects ✨**
 
