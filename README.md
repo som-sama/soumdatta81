@@ -1,7 +1,5 @@
-<img align="center" src="https://github.com/soumdatta81/soumdatta81/blob/21d26eb4f30dd73dc9ec74302bc11b565ac60a5f/wp10474992.png"/>
+<img align="center" src="https://github.com/soumdatta81/soumdatta81/blob/0cd03f09021f2ab8c05283d9a7b6e4bb7905ae25/github_banner2.gif"/>
 
-
-<h1 align="center">Heya! 👋, I'm Som</h1>
 <h3 align="center">I play with code.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
