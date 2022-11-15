@@ -9,7 +9,6 @@ Self-taught developer from India, every day striving to create amazing solutions
 
 Currently exploring for developer roles and working on few personal projects.
 
-<img width="200" align="right" src = "https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=2048&q=75">
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumdatta81&show_icons=true&locale=en&layout=compact" alt="soumdatta81" /></p>
