@@ -17,11 +17,11 @@ Currently exploring for developer roles and working on few personal projects.
 #### You will find me : 
 
 - Tweeting my learnings on [Twitter](https://twitter.com/somstwt) 🚀.  
-- Doing DSA problems on [Leetcode](https://leetcode.com/soum81/) 💫.
+- Streaming on [Twitch](https://www.twitch.tv/som_cs) ⭐️.
 - Writing blogs on [Hashnode](https://soumdatta.hashnode.dev/) ✍️.
 - Uploading videos on [Youtube](https://www.youtube.com/channel/UCsE-ZWzDZ2AiA1ycEdo_MCw/featured) 🎥.
 - Because its a must they say [LinkedIn](https://www.linkedin.com/in/soumyadeep-datta-4541a3213/)☕️.
-##### other than that, I also have a basic [portfolio](https://soumdatta81.github.io/)
+##### other than that, I also have a [portfolio](https://soumdatta81.github.io/)
 
 
 
