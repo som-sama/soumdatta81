@@ -5,7 +5,7 @@
 
 
 ## About me : 
-Self-taught developer from India, every day striving to create amazing solutions to good problems. I specialize in  Back-End development, but any activity requiring problem-solving and creative thinking is where you will find me. I am also the founder of [DevV House](https://discord.com/invite/zxy8EjGH6J) which is the virtual house to 100+ passionate programmer from all over the globe.
+Self-taught developer from India, every day striving to create amazing solutions to good problems. I specialize in  Back-End development, but any activity requiring problem-solving and creative thinking is where you will find me. I am also the founder of [DevV House](https://discord.com/invite/zxy8EjGH6J) which is the virtual house to 100+ passionate programmers from all over the globe.
 
 Currently exploring for developer roles and working on few personal projects.
 
