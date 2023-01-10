@@ -11,7 +11,7 @@ Currently exploring for developer roles and working on few personal projects.
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumdatta81&show_icons=true&locale=en&layout=compact" alt="soumdatta81" /></p>
+<p><img align="right" src="https://i.pinimg.com/originals/0e/0d/9f/0e0d9fc7a1e651ff13bd0499bb94d593.gif" alt="soumdatta81" /></p>
 
 #### You will find me : 
 
