@@ -15,6 +15,7 @@ Currently focused on building and contributing to cool projects.
 - Also on [LinkedIn](https://www.linkedin.com/in/soumyadeep-datta-4541a3213/)☕️.
 ##### other than that, I also have a [portfolio](https://soumdatta81.github.io/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumdatta81)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/soumdatta81/count.svg)
