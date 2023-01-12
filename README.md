@@ -6,6 +6,11 @@ A programmer from India, every day striving to build cool stuff and solve good p
 
 Currently focused on building and contributing to cool projects.
 
+<div class='container'>
+&nbsp;
+<img align="right" style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=soumdatta81&hide=html,css,scss" /></div>
+</div>
+
 #### You will find me : 
 
 - Tweeting my learnings on [Twitter](https://twitter.com/somstwt) 🚀.  
@@ -15,7 +20,6 @@ Currently focused on building and contributing to cool projects.
 - Also on [LinkedIn](https://www.linkedin.com/in/soumyadeep-datta-4541a3213/)☕️.
 ##### other than that, I also have a [portfolio](https://soumdatta81.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumdatta81)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/soumdatta81/count.svg)
