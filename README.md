@@ -21,8 +21,8 @@ Currently focused on building and contributing to cool projects.
 ##### other than that, I also have a [portfolio](https://soumdatta81.github.io/)
 
 
-## Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/soumdatta81/count.svg)
+<!-- ## Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/soumdatta81/count.svg) -->
 
 
 
