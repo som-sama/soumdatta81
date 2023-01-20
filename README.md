@@ -2,7 +2,7 @@
 
 
 ## About me : 
-A programmer from India, every day striving to build cool stuff and solve good problems. I specialize in  Back-End development, but any activity requiring problem-solving and creative thinking is where you will find me. I am also started [DevV House](https://discord.com/invite/zxy8EjGH6J) which is the virtual house to 170+ passionate programmers from all over the globe.
+A programmer from India, every day striving to build cool stuff and solve good problems. I specialize in  Back-End development, but any activity requiring problem-solving and creative thinking is where you will find me. I also started [DevV House](https://discord.com/invite/zxy8EjGH6J) which is the virtual house to 170+ passionate programmers from all over the globe.
 
 Currently focused on building and contributing to cool projects.
 
