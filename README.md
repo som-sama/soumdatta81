@@ -6,11 +6,11 @@ A programmer from India, every day striving to build cool stuff and solve good p
 
 Currently focused on building and contributing to cool projects.
 
-<div class='container'>
+<!-- <div class='container'>
 &nbsp;
 <img align="right" style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=soumdatta81&hide=html,css,scss" /></div>
 </div>
-
+ -->
 #### You will find me : 
 
 - Tweeting my learnings on [Twitter](https://twitter.com/somstwt) 🚀.  
